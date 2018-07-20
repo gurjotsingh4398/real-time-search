@@ -1,0 +1,23 @@
+.Search > p {
+  font-size: 45px;
+  margin: 10px;
+  color: white;
+}
+
+input[type="text"] {
+  width: 350px;
+  height: 40px;
+  box-sizing: border-box;
+  font-size: 25px;
+}
+
+.List {
+  width: 300px;
+  margin: 0 auto;
+  text-align: left;
+  margin-top: 25px;
+  padding-left: 50px;
+  padding-top: 25px;
+  background: #40bcd8;
+  font-size: 20px;
+}
